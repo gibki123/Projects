@@ -1,0 +1,5 @@
+classes = 4
+train = data/candles_train.txt
+valid = data/candles_test.txt
+names = data/candles.names
+backup = backup/
